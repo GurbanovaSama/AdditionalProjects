@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logistica.MVC", "Logistica.MVC\Logistica.MVC.csproj", "{3DB13A6A-AF34-42D7-9BF0-EE06BCBEAC43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logistica.DAL", "Logistica.DAL\Logistica.DAL.csproj", "{233939FE-1C90-4601-A956-7B641C0B2E6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logistica.BL", "Logistica.BL\Logistica.BL.csproj", "{6FE411EF-5DEF-4D85-BF72-174849B192F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DB13A6A-AF34-42D7-9BF0-EE06BCBEAC43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DB13A6A-AF34-42D7-9BF0-EE06BCBEAC43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DB13A6A-AF34-42D7-9BF0-EE06BCBEAC43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DB13A6A-AF34-42D7-9BF0-EE06BCBEAC43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{233939FE-1C90-4601-A956-7B641C0B2E6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{233939FE-1C90-4601-A956-7B641C0B2E6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{233939FE-1C90-4601-A956-7B641C0B2E6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{233939FE-1C90-4601-A956-7B641C0B2E6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FE411EF-5DEF-4D85-BF72-174849B192F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FE411EF-5DEF-4D85-BF72-174849B192F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FE411EF-5DEF-4D85-BF72-174849B192F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FE411EF-5DEF-4D85-BF72-174849B192F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

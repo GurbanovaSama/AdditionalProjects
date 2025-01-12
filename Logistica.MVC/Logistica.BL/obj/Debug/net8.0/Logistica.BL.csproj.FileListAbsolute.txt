@@ -1,0 +1,15 @@
+C:\Users\Sema Gurbanova\source\repos\Logistica.MVC\Logistica.BL\bin\Debug\net8.0\Logistica.BL.deps.json
+C:\Users\Sema Gurbanova\source\repos\Logistica.MVC\Logistica.BL\bin\Debug\net8.0\Logistica.BL.dll
+C:\Users\Sema Gurbanova\source\repos\Logistica.MVC\Logistica.BL\bin\Debug\net8.0\Logistica.BL.pdb
+C:\Users\Sema Gurbanova\source\repos\Logistica.MVC\Logistica.BL\bin\Debug\net8.0\Logistica.DAL.dll
+C:\Users\Sema Gurbanova\source\repos\Logistica.MVC\Logistica.BL\bin\Debug\net8.0\Logistica.DAL.pdb
+C:\Users\Sema Gurbanova\source\repos\Logistica.MVC\Logistica.BL\obj\Debug\net8.0\Logistica.BL.csproj.AssemblyReference.cache
+C:\Users\Sema Gurbanova\source\repos\Logistica.MVC\Logistica.BL\obj\Debug\net8.0\Logistica.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sema Gurbanova\source\repos\Logistica.MVC\Logistica.BL\obj\Debug\net8.0\Logistica.BL.AssemblyInfoInputs.cache
+C:\Users\Sema Gurbanova\source\repos\Logistica.MVC\Logistica.BL\obj\Debug\net8.0\Logistica.BL.AssemblyInfo.cs
+C:\Users\Sema Gurbanova\source\repos\Logistica.MVC\Logistica.BL\obj\Debug\net8.0\Logistica.BL.csproj.CoreCompileInputs.cache
+C:\Users\Sema Gurbanova\source\repos\Logistica.MVC\Logistica.BL\obj\Debug\net8.0\Logistic.57B068AD.Up2Date
+C:\Users\Sema Gurbanova\source\repos\Logistica.MVC\Logistica.BL\obj\Debug\net8.0\Logistica.BL.dll
+C:\Users\Sema Gurbanova\source\repos\Logistica.MVC\Logistica.BL\obj\Debug\net8.0\refint\Logistica.BL.dll
+C:\Users\Sema Gurbanova\source\repos\Logistica.MVC\Logistica.BL\obj\Debug\net8.0\Logistica.BL.pdb
+C:\Users\Sema Gurbanova\source\repos\Logistica.MVC\Logistica.BL\obj\Debug\net8.0\ref\Logistica.BL.dll
