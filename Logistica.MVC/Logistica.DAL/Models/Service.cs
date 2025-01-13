@@ -2,7 +2,7 @@
 
 namespace Logistica.DAL.Models
 {
-    public class Service : BaseEntity
+    public class Service : BaseAuiditableEntity
     {
         public string Name { get; set; }    
         public string Description { get; set; } 

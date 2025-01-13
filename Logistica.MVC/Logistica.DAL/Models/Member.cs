@@ -2,7 +2,7 @@
 
 namespace Logistica.DAL.Models;
 
-public class Member : BaseEntity
+public class Member : BaseAuiditableEntity
 {
     public string Name { get; set; }    
     public string Position { get; set; }    

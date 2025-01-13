@@ -2,7 +2,7 @@
 
 namespace Logistica.DAL.Models
 {
-    public class SliderItem : BaseEntity
+    public class SliderItem : BaseAuiditableEntity
     {
         public string Title { get; set; }   
         public string Description { get; set; } 

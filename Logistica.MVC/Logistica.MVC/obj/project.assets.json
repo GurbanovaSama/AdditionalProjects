@@ -4010,11 +4010,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sema Gurbanova\\source\\repos\\Logistica.MVC\\Logistica.MVC\\Logistica.MVC.csproj",
+      "projectUniqueName": "C:\\Users\\Sema Gurbanova\\Desktop\\AdditionalProjects\\Logistica.MVC\\Logistica.MVC\\Logistica.MVC.csproj",
       "projectName": "Logistica.MVC",
-      "projectPath": "C:\\Users\\Sema Gurbanova\\source\\repos\\Logistica.MVC\\Logistica.MVC\\Logistica.MVC.csproj",
+      "projectPath": "C:\\Users\\Sema Gurbanova\\Desktop\\AdditionalProjects\\Logistica.MVC\\Logistica.MVC\\Logistica.MVC.csproj",
       "packagesPath": "C:\\Users\\Sema Gurbanova\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sema Gurbanova\\source\\repos\\Logistica.MVC\\Logistica.MVC\\obj\\",
+      "outputPath": "C:\\Users\\Sema Gurbanova\\Desktop\\AdditionalProjects\\Logistica.MVC\\Logistica.MVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4035,8 +4035,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Sema Gurbanova\\source\\repos\\Logistica.MVC\\Logistica.BL\\Logistica.BL.csproj": {
-              "projectPath": "C:\\Users\\Sema Gurbanova\\source\\repos\\Logistica.MVC\\Logistica.BL\\Logistica.BL.csproj"
+            "C:\\Users\\Sema Gurbanova\\Desktop\\AdditionalProjects\\Logistica.MVC\\Logistica.BL\\Logistica.BL.csproj": {
+              "projectPath": "C:\\Users\\Sema Gurbanova\\Desktop\\AdditionalProjects\\Logistica.MVC\\Logistica.BL\\Logistica.BL.csproj"
             }
           }
         }

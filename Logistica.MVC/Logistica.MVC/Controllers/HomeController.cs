@@ -1,9 +1,11 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Logistica.DAL.Contexts;
+using Microsoft.AspNetCore.Mvc;
 
 namespace Logistica.MVC.Controllers
 {
     public class HomeController : Controller
     {
+       
         public IActionResult Index()
         {
             return View();

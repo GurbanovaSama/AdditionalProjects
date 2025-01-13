@@ -1,22 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sema Gurbanova\\source\\repos\\Logistica.MVC\\",
+  "WorkspaceRootPath": "C:\\Users\\Sema Gurbanova\\Desktop\\AdditionalProjects\\Logistica.MVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3DB13A6A-AF34-42D7-9BF0-EE06BCBEAC43}|Logistica.MVC\\Logistica.MVC.csproj|c:\\users\\sema gurbanova\\source\\repos\\logistica.mvc\\logistica.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3DB13A6A-AF34-42D7-9BF0-EE06BCBEAC43}|Logistica.MVC\\Logistica.MVC.csproj|c:\\users\\sema gurbanova\\desktop\\additionalprojects\\logistica.mvc\\logistica.mvc\\repositories\\implementations\\writerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB13A6A-AF34-42D7-9BF0-EE06BCBEAC43}|Logistica.MVC\\Logistica.MVC.csproj|solutionrelative:logistica.mvc\\repositories\\implementations\\writerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB13A6A-AF34-42D7-9BF0-EE06BCBEAC43}|Logistica.MVC\\Logistica.MVC.csproj|c:\\users\\sema gurbanova\\desktop\\additionalprojects\\logistica.mvc\\logistica.mvc\\repositories\\abstractions\\iwriterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB13A6A-AF34-42D7-9BF0-EE06BCBEAC43}|Logistica.MVC\\Logistica.MVC.csproj|solutionrelative:logistica.mvc\\repositories\\abstractions\\iwriterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB13A6A-AF34-42D7-9BF0-EE06BCBEAC43}|Logistica.MVC\\Logistica.MVC.csproj|c:\\users\\sema gurbanova\\desktop\\additionalprojects\\logistica.mvc\\logistica.mvc\\repositories\\abstractions\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB13A6A-AF34-42D7-9BF0-EE06BCBEAC43}|Logistica.MVC\\Logistica.MVC.csproj|solutionrelative:logistica.mvc\\repositories\\abstractions\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB13A6A-AF34-42D7-9BF0-EE06BCBEAC43}|Logistica.MVC\\Logistica.MVC.csproj|c:\\users\\sema gurbanova\\desktop\\additionalprojects\\logistica.mvc\\logistica.mvc\\repositories\\abstractions\\ireadrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB13A6A-AF34-42D7-9BF0-EE06BCBEAC43}|Logistica.MVC\\Logistica.MVC.csproj|solutionrelative:logistica.mvc\\repositories\\abstractions\\ireadrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE411EF-5DEF-4D85-BF72-174849B192F0}|Logistica.BL\\Logistica.BL.csproj|c:\\users\\sema gurbanova\\desktop\\additionalprojects\\logistica.mvc\\logistica.bl\\services\\implementations\\slideritemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE411EF-5DEF-4D85-BF72-174849B192F0}|Logistica.BL\\Logistica.BL.csproj|solutionrelative:logistica.bl\\services\\implementations\\slideritemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE411EF-5DEF-4D85-BF72-174849B192F0}|Logistica.BL\\Logistica.BL.csproj|c:\\users\\sema gurbanova\\desktop\\additionalprojects\\logistica.mvc\\logistica.bl\\services\\abstractions\\islideritemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE411EF-5DEF-4D85-BF72-174849B192F0}|Logistica.BL\\Logistica.BL.csproj|solutionrelative:logistica.bl\\services\\abstractions\\islideritemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{233939FE-1C90-4601-A956-7B641C0B2E6B}|Logistica.DAL\\Logistica.DAL.csproj|c:\\users\\sema gurbanova\\desktop\\additionalprojects\\logistica.mvc\\logistica.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{233939FE-1C90-4601-A956-7B641C0B2E6B}|Logistica.DAL\\Logistica.DAL.csproj|solutionrelative:logistica.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB13A6A-AF34-42D7-9BF0-EE06BCBEAC43}|Logistica.MVC\\Logistica.MVC.csproj|c:\\users\\sema gurbanova\\desktop\\additionalprojects\\logistica.mvc\\logistica.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3DB13A6A-AF34-42D7-9BF0-EE06BCBEAC43}|Logistica.MVC\\Logistica.MVC.csproj|solutionrelative:logistica.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB13A6A-AF34-42D7-9BF0-EE06BCBEAC43}|Logistica.MVC\\Logistica.MVC.csproj|c:\\users\\sema gurbanova\\desktop\\additionalprojects\\logistica.mvc\\logistica.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DB13A6A-AF34-42D7-9BF0-EE06BCBEAC43}|Logistica.MVC\\Logistica.MVC.csproj|solutionrelative:logistica.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DB13A6A-AF34-42D7-9BF0-EE06BCBEAC43}|Logistica.MVC\\Logistica.MVC.csproj|c:\\users\\sema gurbanova\\source\\repos\\logistica.mvc\\logistica.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3DB13A6A-AF34-42D7-9BF0-EE06BCBEAC43}|Logistica.MVC\\Logistica.MVC.csproj|solutionrelative:logistica.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{233939FE-1C90-4601-A956-7B641C0B2E6B}|Logistica.DAL\\Logistica.DAL.csproj|c:\\users\\sema gurbanova\\desktop\\additionalprojects\\logistica.mvc\\logistica.dal\\models\\membersclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{233939FE-1C90-4601-A956-7B641C0B2E6B}|Logistica.DAL\\Logistica.DAL.csproj|solutionrelative:logistica.dal\\models\\membersclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DB13A6A-AF34-42D7-9BF0-EE06BCBEAC43}|Logistica.MVC\\Logistica.MVC.csproj|c:\\users\\sema gurbanova\\source\\repos\\logistica.mvc\\logistica.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3DB13A6A-AF34-42D7-9BF0-EE06BCBEAC43}|Logistica.MVC\\Logistica.MVC.csproj|solutionrelative:logistica.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{233939FE-1C90-4601-A956-7B641C0B2E6B}|Logistica.DAL\\Logistica.DAL.csproj|c:\\users\\sema gurbanova\\desktop\\additionalprojects\\logistica.mvc\\logistica.dal\\models\\base\\baseauiditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{233939FE-1C90-4601-A956-7B641C0B2E6B}|Logistica.DAL\\Logistica.DAL.csproj|solutionrelative:logistica.dal\\models\\base\\baseauiditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DB13A6A-AF34-42D7-9BF0-EE06BCBEAC43}|Logistica.MVC\\Logistica.MVC.csproj|c:\\users\\sema gurbanova\\source\\repos\\logistica.mvc\\logistica.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DB13A6A-AF34-42D7-9BF0-EE06BCBEAC43}|Logistica.MVC\\Logistica.MVC.csproj|solutionrelative:logistica.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{233939FE-1C90-4601-A956-7B641C0B2E6B}|Logistica.DAL\\Logistica.DAL.csproj|c:\\users\\sema gurbanova\\desktop\\additionalprojects\\logistica.mvc\\logistica.dal\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{233939FE-1C90-4601-A956-7B641C0B2E6B}|Logistica.DAL\\Logistica.DAL.csproj|solutionrelative:logistica.dal\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,54 +67,151 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\Logistica.MVC\\Logistica.MVC\\Program.cs",
-              "RelativeDocumentMoniker": "Logistica.MVC\\Program.cs",
-              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\Logistica.MVC\\Logistica.MVC\\Program.cs",
-              "RelativeToolTip": "Logistica.MVC\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Title": "WriteRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\AdditionalProjects\\Logistica.MVC\\Logistica.MVC\\Repositories\\Implementations\\WriteRepo.cs",
+              "RelativeDocumentMoniker": "Logistica.MVC\\Repositories\\Implementations\\WriteRepo.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\AdditionalProjects\\Logistica.MVC\\Logistica.MVC\\Repositories\\Implementations\\WriteRepo.cs",
+              "RelativeToolTip": "Logistica.MVC\\Repositories\\Implementations\\WriteRepo.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T19:27:33.363Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\Logistica.MVC\\Logistica.MVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Logistica.MVC\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\Logistica.MVC\\Logistica.MVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Logistica.MVC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAAAI8AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-12T19:24:38.06Z",
+              "WhenOpened": "2025-01-13T06:25:32.694Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\Logistica.MVC\\Logistica.MVC\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Logistica.MVC\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\Logistica.MVC\\Logistica.MVC\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Logistica.MVC\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-12T19:22:27.825Z",
+              "Title": "IWriteRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\AdditionalProjects\\Logistica.MVC\\Logistica.MVC\\Repositories\\Abstractions\\IWriteRepo.cs",
+              "RelativeDocumentMoniker": "Logistica.MVC\\Repositories\\Abstractions\\IWriteRepo.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\AdditionalProjects\\Logistica.MVC\\Logistica.MVC\\Repositories\\Abstractions\\IWriteRepo.cs",
+              "RelativeToolTip": "Logistica.MVC\\Repositories\\Abstractions\\IWriteRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T06:25:30.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\AdditionalProjects\\Logistica.MVC\\Logistica.MVC\\Repositories\\Abstractions\\IRepo.cs",
+              "RelativeDocumentMoniker": "Logistica.MVC\\Repositories\\Abstractions\\IRepo.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\AdditionalProjects\\Logistica.MVC\\Logistica.MVC\\Repositories\\Abstractions\\IRepo.cs",
+              "RelativeToolTip": "Logistica.MVC\\Repositories\\Abstractions\\IRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T06:25:28.981Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\Logistica.MVC\\Logistica.MVC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Logistica.MVC\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\Logistica.MVC\\Logistica.MVC\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Logistica.MVC\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Title": "IReadRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\AdditionalProjects\\Logistica.MVC\\Logistica.MVC\\Repositories\\Abstractions\\IReadRepo.cs",
+              "RelativeDocumentMoniker": "Logistica.MVC\\Repositories\\Abstractions\\IReadRepo.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\AdditionalProjects\\Logistica.MVC\\Logistica.MVC\\Repositories\\Abstractions\\IReadRepo.cs",
+              "RelativeToolTip": "Logistica.MVC\\Repositories\\Abstractions\\IReadRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T19:22:04.468Z",
+              "WhenOpened": "2025-01-13T06:25:28.119Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\AdditionalProjects\\Logistica.MVC\\Logistica.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Logistica.DAL\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\AdditionalProjects\\Logistica.MVC\\Logistica.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "Logistica.DAL\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T06:17:21.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SliderItemService.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\AdditionalProjects\\Logistica.MVC\\Logistica.BL\\Services\\Implementations\\SliderItemService.cs",
+              "RelativeDocumentMoniker": "Logistica.BL\\Services\\Implementations\\SliderItemService.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\AdditionalProjects\\Logistica.MVC\\Logistica.BL\\Services\\Implementations\\SliderItemService.cs",
+              "RelativeToolTip": "Logistica.BL\\Services\\Implementations\\SliderItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T05:51:11.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\AdditionalProjects\\Logistica.MVC\\Logistica.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Logistica.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\AdditionalProjects\\Logistica.MVC\\Logistica.MVC\\Program.cs",
+              "RelativeToolTip": "Logistica.MVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T06:17:52.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\AdditionalProjects\\Logistica.MVC\\Logistica.MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "Logistica.MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\AdditionalProjects\\Logistica.MVC\\Logistica.MVC\\appsettings.json",
+              "RelativeToolTip": "Logistica.MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-13T06:18:17.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MembersClients.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\AdditionalProjects\\Logistica.MVC\\Logistica.DAL\\Models\\MembersClients.cs",
+              "RelativeDocumentMoniker": "Logistica.DAL\\Models\\MembersClients.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\AdditionalProjects\\Logistica.MVC\\Logistica.DAL\\Models\\MembersClients.cs",
+              "RelativeToolTip": "Logistica.DAL\\Models\\MembersClients.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T06:17:13.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseAuiditableEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\AdditionalProjects\\Logistica.MVC\\Logistica.DAL\\Models\\Base\\BaseAuiditableEntity.cs",
+              "RelativeDocumentMoniker": "Logistica.DAL\\Models\\Base\\BaseAuiditableEntity.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\AdditionalProjects\\Logistica.MVC\\Logistica.DAL\\Models\\Base\\BaseAuiditableEntity.cs",
+              "RelativeToolTip": "Logistica.DAL\\Models\\Base\\BaseAuiditableEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T06:16:56.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\AdditionalProjects\\Logistica.MVC\\Logistica.DAL\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Logistica.DAL\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\AdditionalProjects\\Logistica.MVC\\Logistica.DAL\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "Logistica.DAL\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T06:16:53.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISliderItemService.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\AdditionalProjects\\Logistica.MVC\\Logistica.BL\\Services\\Abstractions\\ISliderItemService.cs",
+              "RelativeDocumentMoniker": "Logistica.BL\\Services\\Abstractions\\ISliderItemService.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\AdditionalProjects\\Logistica.MVC\\Logistica.BL\\Services\\Abstractions\\ISliderItemService.cs",
+              "RelativeToolTip": "Logistica.BL\\Services\\Abstractions\\ISliderItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T05:51:09.441Z"
             }
           ]
         },
