@@ -1,0 +1,14 @@
+C:\Users\Sema Gurbanova\source\repos\Simulation2\Simulation2.DAL\bin\Debug\net8.0\Simulation2.DAL.deps.json
+C:\Users\Sema Gurbanova\source\repos\Simulation2\Simulation2.DAL\bin\Debug\net8.0\Simulation2.DAL.runtimeconfig.json
+C:\Users\Sema Gurbanova\source\repos\Simulation2\Simulation2.DAL\bin\Debug\net8.0\Simulation2.DAL.dll
+C:\Users\Sema Gurbanova\source\repos\Simulation2\Simulation2.DAL\bin\Debug\net8.0\Simulation2.DAL.pdb
+C:\Users\Sema Gurbanova\source\repos\Simulation2\Simulation2.DAL\obj\Debug\net8.0\Simulation2.DAL.csproj.AssemblyReference.cache
+C:\Users\Sema Gurbanova\source\repos\Simulation2\Simulation2.DAL\obj\Debug\net8.0\Simulation2.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sema Gurbanova\source\repos\Simulation2\Simulation2.DAL\obj\Debug\net8.0\Simulation2.DAL.AssemblyInfoInputs.cache
+C:\Users\Sema Gurbanova\source\repos\Simulation2\Simulation2.DAL\obj\Debug\net8.0\Simulation2.DAL.AssemblyInfo.cs
+C:\Users\Sema Gurbanova\source\repos\Simulation2\Simulation2.DAL\obj\Debug\net8.0\Simulation2.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Sema Gurbanova\source\repos\Simulation2\Simulation2.DAL\obj\Debug\net8.0\Simulation2.DAL.dll
+C:\Users\Sema Gurbanova\source\repos\Simulation2\Simulation2.DAL\obj\Debug\net8.0\refint\Simulation2.DAL.dll
+C:\Users\Sema Gurbanova\source\repos\Simulation2\Simulation2.DAL\obj\Debug\net8.0\Simulation2.DAL.pdb
+C:\Users\Sema Gurbanova\source\repos\Simulation2\Simulation2.DAL\obj\Debug\net8.0\Simulation2.DAL.genruntimeconfig.cache
+C:\Users\Sema Gurbanova\source\repos\Simulation2\Simulation2.DAL\obj\Debug\net8.0\ref\Simulation2.DAL.dll
